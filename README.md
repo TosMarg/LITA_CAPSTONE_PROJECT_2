@@ -19,3 +19,13 @@ The primary source of data used here is the Customer subscription data that was 
 ---
 
  - Microsoft Excel for Data cleaning and analysis [Download Here](https://www.microsoft.com)
+    1. For Data Cleaning
+    2. For Analysis
+    3. For data Visualization
+ - SQL- Structured Quary Language for quaering of data
+ - Power BI to create dashboard for visualization
+ - Github for Portfolio building
+
+### Expolaratory Data Analysis
+---
+     
