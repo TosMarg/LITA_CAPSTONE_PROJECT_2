@@ -61,3 +61,13 @@ This is where we use excel formulas calculate some metrics such as;
  ![sql cust 3](https://github.com/user-attachments/assets/01ac90d5-6844-4175-81f4-4c30e314413a)
 
 ![sql cust 4](https://github.com/user-attachments/assets/42c88064-0fe9-469f-8214-9d5129810ceb)
+
+### Data visualization
+---
+Data visualization using Power BI
+
+ ![Screenshot (7)](https://github.com/user-attachments/assets/bf038bc5-e954-4752-ab29-076cc407dce2)
+
+### Conclusion
+---
+The customer data analysis provides a comprehensive understanding of subscription patterns and customer behaviours, enabling the subscription service to make data-driven decisions. by identifyimg key customer segments, tracking trends in renewals and cancellations, and understanding factors influencing customer behaviour, the business can develop targeted strategies to improve retention and satisfaction.
