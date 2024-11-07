@@ -44,3 +44,11 @@ This is where we use excel formulas calculate some metrics such as;
  - Average subscription duration.
  - Most popular subscription type.
    
+![excel customer data](https://github.com/user-attachments/assets/5793c163-694f-40f8-b76a-d2db4d75a757)
+
+- Pivot table to summarize subscription pattern
+
+  ![pivot customer data](https://github.com/user-attachments/assets/59af3581-6d46-4539-ba3a-7728f490b354)
+
+  ![pivot customer data 2](https://github.com/user-attachments/assets/7111ea3a-3f7d-441f-984c-ecdd7bca079a)
+
