@@ -38,3 +38,9 @@ The primary source of data used here is the Customer subscription data that was 
  - Calculate total revenue by subscription type.
  - Find the top 3 regions by subscription cancellations.
  - Find the total number of active and canceled subscriptions.
+### Data Analysis
+---
+This is where we use excel formulas calculate some metrics such as;
+ - Average subscription duration.
+ - Most popular subscription type.
+   
