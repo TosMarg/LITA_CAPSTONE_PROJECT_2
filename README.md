@@ -28,4 +28,13 @@ The primary source of data used here is the Customer subscription data that was 
 
 ### Expolaratory Data Analysis
 ---
-     
+ This involve analysing the data to answer the following questions;
+  - Calculate the average subscription duration and identify the most popular subscription type.
+ - Retrieve the total number of customers from each region.
+ - Find the most popular subscription type by the number of customers.
+ - Find customers who canceled their subscription within 6 month.
+ - Calculate the average subscription duration for all customers.
+ - Find customers wuth subscription longer than 12 month.
+ - Calculate total revenue by subscription type.
+ - Find the top 3 regions by subscription cancellations.
+ - Find the total number of active and canceled subscriptions.
