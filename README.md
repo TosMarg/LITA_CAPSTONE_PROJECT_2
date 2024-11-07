@@ -2,6 +2,22 @@
 
 ### Project Title: Customer Segmentation for a Subscription Service
 ---
+ [Introduction](#introduction)
+ 
+ [Objectives](#objectives)
+ 
+ [Data Sources](#data-sources)
+ 
+ [Tools Used](#tools-used)
+ 
+ [Expolaratory Data Analysis](#expolaratory-data-analysis)
+ 
+ [Data Analysis](#data-analysis)
+ 
+ [Data visualization](#data-visualization)
+ 
+ [Conclusion](#conclusion)
+ 
 ### Introduction
 ---
 In today's competitive subscription-based market, understanding customer behaviour is critical to building a loyal user base and reducing churn. 
