@@ -55,3 +55,9 @@ This is where we use excel formulas calculate some metrics such as;
 - SQL to write and validate some quaries;
 
   ![sql customer data](https://github.com/user-attachments/assets/815b5177-fdd7-46a4-aa89-c2cd4267062e)
+
+ ![sql cust data 2](https://github.com/user-attachments/assets/35c67f83-6698-4e36-90cd-c3c9810e0b96)
+
+ ![sql cust 3](https://github.com/user-attachments/assets/01ac90d5-6844-4175-81f4-4c30e314413a)
+
+![sql cust 4](https://github.com/user-attachments/assets/42c88064-0fe9-469f-8214-9d5129810ceb)
