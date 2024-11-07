@@ -52,3 +52,6 @@ This is where we use excel formulas calculate some metrics such as;
 
   ![pivot customer data 2](https://github.com/user-attachments/assets/7111ea3a-3f7d-441f-984c-ecdd7bca079a)
 
+- SQL to write and validate some quaries;
+
+  ![sql customer data](https://github.com/user-attachments/assets/815b5177-fdd7-46a4-aa89-c2cd4267062e)
